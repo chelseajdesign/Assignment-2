@@ -1,1 +1,11 @@
-# Assignment-2
+In homework part 1; I created a scatter plot of alcohol vs. malic acid. Then made the colors point base edication and calculated the accuracy. And used the decision tree model to print the graphs and plots. In Part 1 of the Part 2 homework, I used the random forest decision tree to help load the datasets and train the classifiers in these steps. Logistic Regression; a linear model for classification. MLP (Neural Network); a simple neural network with one hidden layer. Each model is trained, makes predictions on the test set, and calculates accuracy. Finally, it displays each model's accuracy and detailed performance metrics to compare their effectiveness on the same datasetIn Part 2 of the homework, the YOLO detection in these steps;Collect and annotate images with bounding boxes around objects. Load a pre-trained YOLO model (e.g., YOLOv5). Train the model on your annotated dataset. Use the trained model to detect objects in new images. Display images with detected bounding boxes and labels; loaded my own image and was able too successfully detect my face Attached are screenshots of the parts of the code/accuracy
+<img width="880" alt="Screenshot 2024-11-22 at 6 56 58 PM" src="https://github.com/user-attachments/assets/53a12f96-12ca-433d-a2c0-476bb24aea84">
+<img width="871" alt="Screenshot 2024-11-22 at 6 57 11 PM" src="https://github.com/user-attachments/assets/0f5db008-1846-4629-b075-2cdf479967b6">
+<img width="871" alt="Screenshot 2024-11-22 at 6 57 18 PM" src="https://github.com/user-attachments/assets/73115136-b43e-4d37-8c0f-fc75de781c89">
+<img width="871" alt="Screenshot 2024-11-22 at 6 57 22 PM" src="https://github.com/user-attachments/assets/39ea8d13-5143-461c-a7c1-94d2d0586a86">
+<img width="875" alt="Screenshot 2024-11-22 at 6 57 48 PM" src="https://github.com/user-attachments/assets/85563411-0bd6-42ac-9d0b-3b4a8e377251">
+<img width="877" alt="Screenshot 2024-11-22 at 6 58 05 PM" src="https://github.com/user-attachments/assets/c555f8e4-c56e-4950-b599-2cb3f0e8e87b">
+<img width="877" alt="Screenshot 2024-11-22 at 6 58 10 PM" src="https://github.com/user-attachments/assets/51958e5b-af8b-4237-94a1-73c436e3ee5d">
+<img width="877" alt="Screenshot 2024-11-22 at 6 58 15 PM" src="https://github.com/user-attachments/assets/cf75889e-cf3a-4f46-bc86-27dbc4b5f126">
+<img width="877" alt="Screenshot 2024-11-22 at 6 58 19 PM" src="https://github.com/user-attachments/assets/e8262f47-4a4c-40dd-9a8e-55e285cf45c2">
+
